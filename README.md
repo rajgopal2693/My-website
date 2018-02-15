@@ -9,6 +9,4 @@ This is my website in local repository and mergeed with remote repo
 my name is raja gopal in locally
 >>>>>>> update-readme
 
-just updating the file in locally master
-
-Need to update in the remote repo
+i am aagain updating in the repo
